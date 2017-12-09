@@ -7,7 +7,7 @@
 ## 26605 http MasHH Server  -- reserved
 ## 26606 http MasHH Server  -- reserved
 ## 26607 http MasHH Server  -- reserved
+## 26608 websocke & http OmServer --server mobile and tv
+## 26609 websocke & http DashboardServer --server mobile and tv
 ## 26610 MasHH Server  -- server smart maeters 
-## 26611 websocke OmServer --server mobile and tv
-## 26612 http OmServer --server mobile and tv and web client
 ## 26660 MasHH Server  -- server smart maeters
