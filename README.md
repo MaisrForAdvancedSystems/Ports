@@ -7,6 +7,5 @@
 ## 26605 http MasHH Server  -- reserved
 ## 26606 http MasHH Server  -- reserved
 ## 26607 http MasHH Server  -- reserved
-## 26608 websocket & http OmServer --server web,mobile and tv
-## 26609 websocket & http DashboardServer --server web,mobile and tv
 ## 26610 SmartMeter Server  -- server smart maeters 
+## 26611 websocket & http enterprise server for O&M,HH web tv and mobile
