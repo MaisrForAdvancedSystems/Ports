@@ -9,3 +9,4 @@
 ## 26607 http MasHH Server  -- reserved
 ## 26610 SmartMeter Server  -- server smart maeters 
 ## 26611 websocket & http enterprise server for O&M,HH web tv and mobile
+## 26612 dashboard generic for qlb or any dasboard not based on mas da
